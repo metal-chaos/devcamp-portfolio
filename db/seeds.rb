@@ -23,7 +23,7 @@ puts "10 skills created"
 		title: "Portfolio title: #{portfolio_item}",
 		subtitle: "My great service",
 		body: "ただ一つ僕が若い人に伝えたいのは、若い頃から、つまり今、目の前にあることの積み重ねが20年後の自分をつくるということだ。40歳を越えても自由であり続けられるか、居場所に困らないでいられるか否かは、君たちが今、目の前にある仕事にどう取り組むかで変わってくる。「現在と未来は地続きでつながっている」それを意識して日々を過ごすだけで、未来はいくぶん明るいものになるのは間違いない。僕が自信を持って言えることは、それくらいしかない。",
-		main_image: "ttp://via.placeholder.com/600x400",
+		main_image: "http://via.placeholder.com/600x400",
 		thumb_image: "http://via.placeholder.com/350x200" ,
 	)
 end
